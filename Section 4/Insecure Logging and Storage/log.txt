@@ -1,0 +1,2 @@
+Connected to database: localhostWith user: rootand password: 
+Connection successful!
