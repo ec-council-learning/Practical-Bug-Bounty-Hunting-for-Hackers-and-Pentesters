@@ -1,0 +1,14 @@
+Reverse Engineering APKS:
+APKtool: https://ibotpeaches.github.io/Apktool/install/
+jd-gui (java decompiler): http://java-decompiler.github.io/
+dex2jar: https://github.com/pxb1988/dex2jar
+InsecureBankV2: https://github.com/dineshshetty/Android-InsecureBankv2
+
+Drozer:
+Python2: https://www.python.org/downloads/release/python-2718/
+Android Studio: https://developer.android.com/studio
+Drozer: https://labs.f-secure.com/tools/drozer/
+
+pip commands: pip install protobuf==2.6.1 pyOpenSSL pyyaml Twisted service_identity
+
+Diva apk: https://github.com/tjunxiang92/Android-Vulnerabilities/blob/master/diva-beta.apk
